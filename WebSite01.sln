@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{579052E9-4D86-4672-A0BA-47BC955390A2}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{11AF594B-51A4-4FEC-81B6-7FFD25A3E215}"
+	ProjectSection(SolutionItems) = preProject
+		css\sanitize.css = css\sanitize.css
+		css\style.css = css\style.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{11AF594B-51A4-4FEC-81B6-7FFD25A3E215} = {579052E9-4D86-4672-A0BA-47BC955390A2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63C0EF05-8B8A-4D8E-BA1A-05F35FDC6B28}
+	EndGlobalSection
+EndGlobal
